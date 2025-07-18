@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23139
-Fork on GitHub
-7795
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dhruv Dadhania</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
